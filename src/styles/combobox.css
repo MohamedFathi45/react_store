@@ -1,0 +1,9 @@
+
+
+.combobox{
+    margin-top: 12px;
+    margin-left: 100px;
+    display: grid;
+    grid-template-columns: 150px 250px;
+    align-items: center;
+}

@@ -1,0 +1,32 @@
+
+
+input[type=checkbox]
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+  transform: scale(2);
+  padding: 10px;
+}
+
+.text-container{
+    font-size: 25px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+#dlete-checkbox{
+    font-size: 110%;
+
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.product{
+    border-color: black;
+    border-style: solid;
+    padding-bottom: 50px;
+}

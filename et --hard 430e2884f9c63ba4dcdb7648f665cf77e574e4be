@@ -1,0 +1,39 @@
+[33mcommit 430e2884f9c63ba4dcdb7648f665cf77e574e4be[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Mohamed Fathi <sharksmardo@gmail.com>
+Date:   Sun May 29 00:29:40 2022 +0200
+
+    v1
+
+[33mcommit 7026b5b7206428218ae165668a7bf4b30b3e6ac0[m
+Author: Mohamed Fathi <sharksmardo@gmail.com>
+Date:   Sat May 28 17:47:18 2022 +0200
+
+    Completed the add-product functionality
+    
+    -added combo-box for choosing proudct type
+    -added dynamic widgets for every product type feilds
+
+[33mcommit c525567b2556fb8fbad72d2cbb4cde05807b0dd1[m
+Author: Mohamed Fathi <sharksmardo@gmail.com>
+Date:   Wed May 25 13:46:51 2022 +0200
+
+    Added Page to Add Products
+    
+    -added footer to the main page and reused it in add product page
+    -added form input feild in shared folder (to reuse it)
+    -added body to main page
+
+[33mcommit 8ff60ba8d9bb30743f94ada3c6e07f2f7ef0ae4b[m
+Author: Mohamed Fathi <sharksmardo@gmail.com>
+Date:   Mon May 23 22:42:36 2022 +0200
+
+    Added Headr component
+    
+    -added Header Component
+    -added shared component(Button)
+
+[33mcommit ff9f94d341de7e45e5480ff4184f5b5c31b66c96[m
+Author: Mohamed Fathi <sharksmardo@gmail.com>
+Date:   Mon May 23 19:18:14 2022 +0200
+
+    Initialize project using Create React App

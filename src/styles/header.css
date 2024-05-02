@@ -1,0 +1,36 @@
+
+
+.header-text{
+    font-weight: bold;
+    font-size: 35px;
+    display: flex;
+    flex:4;
+}
+
+.header{
+    flex-direction:  row;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-bottom-style: solid;
+}
+
+.right-part{
+    align-items: center;
+    display: flex;
+    flex: 1;
+}
+
+.header-button{
+    margin-left: 12px;
+    font-size: 17px;
+    border-color: black;
+    border-style: solid;
+    box-shadow: 2px 2px 0px;
+    background-color: white;
+}
+
+.add-button-div{ 
+    margin-right: 35px;
+}
